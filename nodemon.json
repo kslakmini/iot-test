@@ -1,0 +1,12 @@
+{
+  "env": {
+    "CLIENT_URL": "http://localhost:3000",
+    "DB_USER": "user_1",
+    "DB_PASSWORD": "ga00VFMx1J2P83IZ",
+    "DB_NAME": "test-db",
+    "JWT_KEY": "@$JWT_KEY$@",
+    "NODE_ENV": "development",
+    "PORT": 5000,
+    "REFRESH_KEY": "@$REFRESH_KEY$@"
+  }
+}
